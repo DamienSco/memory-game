@@ -2,7 +2,7 @@
 
 The memory game or card matching game is an Udacity project also know as 'concentration'. Using `HTML`, `CSS` and `JavaScript` enable an interactive experience while having fun !
 
-You can access the memory game from [this link](https://damiensco.github.io/).
+You can access the memory game from [this link](https://damiensco.github.io/memory-game/index.html).
 
 ## Table of Contents
 
