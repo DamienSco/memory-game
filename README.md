@@ -2,8 +2,6 @@
 
 The memory game or card matching game is an Udacity project also know as 'concentration'. Using `HTML`, `CSS` and `JavaScript` enable an interactive experience while having fun !
 
-You can access the memory game from [this link](https://damiensco.github.io/memory-game/index.html).
-
 ## Table of Contents
 
 * [How to Run the Application](#how-to-run-the-application)
@@ -13,9 +11,11 @@ You can access the memory game from [this link](https://damiensco.github.io/memo
 
 ## How to Run the Application
 
-1.You can download or clone this repository.
+1. Click on [this link](https://damiensco.github.io/memory-game/index.html).
 
-2.Find the `index.html` file, and open the file in a modern browser.
+2. You can download or clone this repository.
+
+2.1 Find the `index.html` file, and open the file in a modern browser.
 
 ## Game Rules
 
