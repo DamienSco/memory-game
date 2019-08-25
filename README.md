@@ -17,7 +17,7 @@ The memory game or card matching game is an Udacity project also know as 'concen
 
 2.1 Find the `index.html` file, and open the file in a modern browser.
 
-## Game Rules
+## How to Play
 
 The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards, each with different symbols on one side. The cards are arranged randomly on the grid with the symbol face down. The gameplay rules are very simple: flip over two hidden cards at a time to locate the ones that match!
 
@@ -45,7 +45,7 @@ Each turn:
 
 <img src="./img/modalGame.png" width="450">
 
-## Technical
+## Assets
 
 This project consists of the following assets:
 
