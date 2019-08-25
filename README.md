@@ -15,7 +15,7 @@ The memory game or card matching game is an Udacity project also know as 'concen
 
 2. You can download or clone this repository.
 
-2.1 Find the `index.html` file, and open the file in a modern browser.
+3. Find the `index.html` file, and open the file in a modern browser.
 
 ## How to Play
 
